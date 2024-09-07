@@ -36,3 +36,7 @@ I’ve read that some people find octal mode harder to grasp, but thanks to my m
 On a side note, I discovered that setting file permissions on the Windows command line is far more complicated. Now I understand why developers prefer Linux/Unix systems! I almost lost my mind trying to figure out the Windows equivalent of the chmod command. I’ll tackle that another time. For now, that’s all—bye and thanks!
 
 # CHAPTER 6: SET MULTIPLE PERMISSIONS
+To be updated
+
+# CHAPTER 7: JOHN-DOE WHO??
+To be updated
