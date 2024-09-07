@@ -27,3 +27,10 @@ To simulate the script's functionality, I logged out from the root user and swit
 The script file 4-empty contains an executable script for the Linux command touch. This script creates a new file named hello. While it might seem a bit unnecessary to create a file with a simple name like hello, it's a handy way to quickly generate empty files for various purposes.
 
 Fun Fact: The touch command is not just for creating empty files! It can also be used to update the timestamp of existing files, making it useful for various file management tasks.
+
+# CHAPTER 4: SET FILE PERMISSIONS FOR OWNER of HELLO
+Remember the hello file I created earlier that I mentioned might not be necessary? Well, I wrote a new script to update its permissions for the owner using octal mode. Why octal mode? Because it’s faster and more convenient!
+
+I’ve read that some people find octal mode harder to grasp, but thanks to my mentor Nehemiah, I found it quite manageable. I’m planning to learn more about the symbolic mode for changing file permissions in the future.
+
+On a side note, I discovered that setting file permissions on the Windows command line is far more complicated. Now I understand why developers prefer Linux/Unix systems! I almost lost my mind trying to figure out the Windows equivalent of the chmod command. I’ll tackle that another time. For now, that’s all—bye and thanks!
