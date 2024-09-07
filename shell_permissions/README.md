@@ -34,3 +34,5 @@ Remember the hello file I created earlier that I mentioned might not be necessar
 I’ve read that some people find octal mode harder to grasp, but thanks to my mentor Nehemiah, I found it quite manageable. I’m planning to learn more about the symbolic mode for changing file permissions in the future.
 
 On a side note, I discovered that setting file permissions on the Windows command line is far more complicated. Now I understand why developers prefer Linux/Unix systems! I almost lost my mind trying to figure out the Windows equivalent of the chmod command. I’ll tackle that another time. For now, that’s all—bye and thanks!
+
+# CHAPTER 6: SET MULTIPLE PERMISSIONS
