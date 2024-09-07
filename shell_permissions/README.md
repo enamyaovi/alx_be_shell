@@ -17,3 +17,8 @@ According to the manual pages of su {man su}, when no user is specified it defau
 Since I was did this exercise in the ALx sandbox and I had access to the root user privileges, executing the script logs me in as betty without asking for a password. 
 
 I plan on running the script as a different user to see how it behaves. Anyways that's all for now. Bye!
+
+# CHAPTER 2: TELL SYSTEM USER SCRIPT
+The script file 1-who_am_i contains an executable script for the Linux command whoami. This command is used to display the username of the current user. Since Linux systems support multiple users logged into different terminals simultaneously, you can see how this command works by switching users.
+
+To simulate the script's functionality, I logged out from the root user and switched to one of the newly created users, such as betty. When running the script file as this user, the output returned is betty. For more information about the whoami command, you can read more here.
