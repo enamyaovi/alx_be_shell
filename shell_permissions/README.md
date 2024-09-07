@@ -22,3 +22,8 @@ I plan on running the script as a different user to see how it behaves. Anyways 
 The script file 1-who_am_i contains an executable script for the Linux command whoami. This command is used to display the username of the current user. Since Linux systems support multiple users logged into different terminals simultaneously, you can see how this command works by switching users.
 
 To simulate the script's functionality, I logged out from the root user and switched to one of the newly created users, such as betty. When running the script file as this user, the output returned is betty. For more information about the whoami command, you can read more here.
+
+# CHAPTER 3: CREATE NEW EMPTY FILE_HELLO
+The script file 4-empty contains an executable script for the Linux command touch. This script creates a new file named hello. While it might seem a bit unnecessary to create a file with a simple name like hello, it's a handy way to quickly generate empty files for various purposes.
+
+Fun Fact: The touch command is not just for creating empty files! It can also be used to update the timestamp of existing files, making it useful for various file management tasks.
