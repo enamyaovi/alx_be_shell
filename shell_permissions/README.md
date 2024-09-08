@@ -36,7 +36,11 @@ I’ve read that some people find octal mode harder to grasp, but thanks to my m
 On a side note, I discovered that setting file permissions on the Windows command line is far more complicated. Now I understand why developers prefer Linux/Unix systems! I almost lost my mind trying to figure out the Windows equivalent of the chmod command. I’ll tackle that another time. For now, that’s all—bye and thanks!
 
 # CHAPTER 6: SET MULTIPLE PERMISSIONS
-To be updated
+This script will set multiple permissions for different user groups: the file owner, the owner's group, and all other users. The file in question is hello, the same file created in the "4-empty" script. I now feel confident with using octal notation for setting permissions on files, directories, and libraries. It's satisfying to realize I’ve learned something new since yesterday.
 
 # CHAPTER 7: JOHN-DOE WHO??
-To be updated
+Who is John Doe? Well, he's your typical, everyday figure—a placeholder name used for an unknown or anonymous person. The name "John Doe" has been used in legal contexts dating back to the 13th century in England, where it was applied to anonymous or hypothetical parties in court cases. Over time, it became synonymous with a generic, unidentified individual.
+
+Now, back to business. This script will set the permissions for the hello file to a specific value. Why this value? Honestly, I didn’t question it. My goal this week is to pass my project, so I’m following instructions. No, I don’t subscribe to a hive mind. Running the script will set the file permissions to -rwxr-x-wx for the hello file.
+
+That's all for now! Thanks for reading, and see you in the next project. 👋
